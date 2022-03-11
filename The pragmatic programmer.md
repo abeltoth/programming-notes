@@ -3,6 +3,7 @@
 ## A Pragmatic Philosophy
 
 - Take responsibility
+
   > When you make a mistake (as we all do) or an error in judgment, admit it honestly and try to offer options.
 - Software Entropy
   > Don’t leave “broken windows’’ (bad designs, wrong decisions, or poor code) unrepaired. Fix each one as soon as it is discovered.
@@ -36,6 +37,7 @@
 ## A Pragmatic Approach
 
 - ETC principle: Easier to Change
+
   > Good design as easier to change than bad design.
 - DRY principle: Don’t Repeat Yourself
   > Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.
@@ -67,4 +69,5 @@
   - PERT:
     - Every PERT task has an optimistic, a most likely, and a pessimistic estimate
   - What to say when asked for an estimate?
+
     > I’ll get back to you.
